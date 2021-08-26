@@ -1,6 +1,6 @@
 # Hi there! <img alt="" src="https://media1.giphy.com/media/108JHWB1hruZnq/giphy.gif?cid=ecf05e47wlnuot25g7g8lb1ghvy1qv7blgx8vbk19q1o06h2&rid=giphy.gif&ct=s" width="50px">
 
-### My name is Valerii Butorin. I'm 19yo student of ITMO uneversity and Software Engeneer.
+### My name is Valerii Butorin. I'm 19yo ITMO uneversity student and Software Engeneer.
 
 ## My social <img alt="" src="https://media4.giphy.com/media/kdjPaTqjYfJdGMU12U/giphy.gif?cid=ecf05e472axqqxawamb726m781biqw8ljuer28qp2cwm32zr&rid=giphy.gif&ct=s" width="30px">:
 
