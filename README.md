@@ -1,8 +1,7 @@
-# Hi there! <img alt="" src="https://media1.giphy.com/media/108JHWB1hruZnq/giphy.gif?cid=ecf05e47wlnuot25g7g8lb1ghvy1qv7blgx8vbk19q1o06h2&rid=giphy.gif&ct=s" width="50px">
+# Hi there! <img alt="" src="https://media1.giphy.com/media/108JHWB1hruZnq/giphy.gif?cid=ecf05e47wlnuot25g7g8lb1ghvy1qv7blgx8vbk19q1o06h2&rid=giphy.gif&ct=s" width="50px"> ![Profile views](https://gpvc.arturio.dev/dokerplp)
 
 ### My name is Valerii Butorin. I'm 19yo ITMO uneversity student and Software Engeneer.
 
-![Profile views](https://gpvc.arturio.dev/dokerplp)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=dokerplp&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
