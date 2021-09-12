@@ -2,6 +2,9 @@
 
 ### My name is Valerii Butorin. I'm 19yo ITMO uneversity student and Software Engeneer.
 
+![Profile views](https://gpvc.arturio.dev/dokerplp)
+
+
 ## My social <img alt="" src="https://media4.giphy.com/media/kdjPaTqjYfJdGMU12U/giphy.gif?cid=ecf05e472axqqxawamb726m781biqw8ljuer28qp2cwm32zr&rid=giphy.gif&ct=s" width="30px">:
 
 [![Telegram: @dokerplp](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&labelColor=white&link=https://t.me/dokerplp)](https://t.me/dokerplp)
